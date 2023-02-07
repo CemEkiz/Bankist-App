@@ -3,7 +3,7 @@
     <h1>Bankist App</h1>
     <br />
     <p>A banking app that allows to do some basics financial operations</p>
-    <h3><a href="">🔗 Link to the Website</a></h2>
+    <h3><a href="https://bankistapp-cem.netlify.app/">🔗 Link to the Website</a></h2>
     <img src="showcase.png" />
   </p>
 </div>
